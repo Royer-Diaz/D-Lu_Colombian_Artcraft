@@ -1,0 +1,222 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/GoldRoyerD/Desktop/Projects/Pet-Mate/templates/buy_cats.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/templates/blog.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/templates/materials.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/index.html",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/templates/application.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/js/router.js",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/templates/fibsAnswers.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/templates/fibsCommments.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/templates/products.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/templates/fibers_and_steel.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/templates/pulseras.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/templates/collares.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/templates/aretes.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/templates/posts.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/css/style.css",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/css/util/carousel.css",
+		"/Users/GoldRoyerD/Desktop/Projects/D-Lu_Colombian_Artcraft/js/d-lu.js",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/js/router.js",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/woods.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/materialComments.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/materialAnwers.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/material.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/anwsers.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/comments.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/comment.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/blog.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/post.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/posts.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/contact.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/adreessMap.js",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/messageContact.js",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/about.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/home.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/index.html",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/templates/application.hbs",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/js/d-lu.js",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/js/util/router.js",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/js/util/ember.js",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/js/util/localstorage_adapter.js",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/js/util/ember-data.js",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Artcrafts/js/libs/ember-handlebars-loader-0.0.2.js",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/js/util/ember-handlebars-loader-0.0.2.js",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/js/util/ember-template-compiler.js",
+		"/Users/GoldRoyerD/Desktop/Projects/D'Lu Colombian Artcraft/css/style.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Generic placeholder image",
+			"woods",
+			"<a href=\"#\">",
+			"</a>",
+			"featurette-image",
+			"eaturette-image",
+			"libs",
+			"report",
+			"<p>&nbsp;</p>",
+			"<h1>&nbsp;</h1>\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

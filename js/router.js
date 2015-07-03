@@ -6,9 +6,7 @@ dLu.Router.map(function() {
      this.resource('dluArtcraft');   
   });
   this.resource('contact', function() {
-     this.resource('adressMap', function() {
-       this.route('map-with-coordinates');
-     });
+     this.resource('adressMap');
      this.resource('messageContact');
   });
   this.resource('materials', function() {
@@ -28,12 +26,9 @@ dLu.Router.map(function() {
      this.resource('collares');
      this.resource('pulseras');
   });
-  this.resource('blog', function() {
-     this.resource('posts');
-  });
+  this.resource('gallery');
+  this.resource('blog');
   this.resource('post', function() {
-     this.route('comments', function() {
-        this.route('answers');
-     });
+     this.resource('comments');
   });
 });

@@ -6,7 +6,9 @@ dLu.Router.map(function() {
      this.resource('dluArtcraft');   
   });
   this.resource('contact', function() {
-     this.resource('adressMap');
+     this.resource('adressMap', function() {
+       this.resource('map-with-coordinates');
+     });
      this.resource('messageContact');
   });
   this.resource('materials', function() {

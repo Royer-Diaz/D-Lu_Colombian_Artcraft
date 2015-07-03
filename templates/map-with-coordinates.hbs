@@ -1,0 +1,10 @@
+ <script type="text/x-handlebars">
+    {{view App.MapWithCoordinatesView latitude="42.63913" longitude="3.022150"}}
+ </script>
+
+<script type="text/x-handlebars" data-template-name="map-with-coordinates">
+	{{view App.MapView latitudeBinding="view.latitude" longitudeBinding="view.longitude" altitudeBinding="view.altitude"}}
+	{{view Ember.TextField valueBinding="view.latitude"}}
+	{{view Ember.TextField valueBinding="view.longitude"}}
+	{{view Ember.TextField valueBinding="view.altitude"}}
+</script>

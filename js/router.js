@@ -7,7 +7,7 @@ dLu.Router.map(function() {
   });
   this.resource('contact', function() {
      this.resource('adressMap', function() {
-       this.resource('map-with-coordinates');
+       this.route('map-with-coordinates');
      });
      this.resource('messageContact');
   });
@@ -32,8 +32,8 @@ dLu.Router.map(function() {
      this.resource('posts');
   });
   this.resource('post', function() {
-     this.resource('comments', function() {
-        this.resource('answers');
+     this.route('comments', function() {
+        this.route('answers');
      });
   });
 });

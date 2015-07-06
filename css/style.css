@@ -51,3 +51,38 @@ footer p {
   margin-top: 70px;
   text-align: center;
 }
+
+.services {
+  font-family: "Whitney",sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 1.5em;
+  color: #615B5D;
+}
+
+
+.banner.slim {
+    padding: 0px;
+}
+.banner {
+    padding: 50px 0px;
+    margin: 0px auto;
+    text-align: left;
+    border-top: 3px solid rgba(0, 0, 0, 0.04);
+    background: rgba(0, 0, 0, 0.02) none repeat scroll 0% 0%;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+
+section .services article {
+    padding: 100px 0px 80px;
+}
+
+h2 .headerf {
+    padding: 25px 0px 15px;
+    font-family: Whitney;
+    font-size: 21px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #242424;
+}
